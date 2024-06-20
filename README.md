@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nathan30&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nathan30&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nathan30&show_icons=true&theme=gruvbox&rank_icon=percentile&hide=stars&line_height=36&hide_border=true&hide_title=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
 </p>
 
 <p align='center'>
