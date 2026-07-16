@@ -11,7 +11,7 @@
   <img alt='PHP' src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white'/>
   <img alt='TypeScript' src='https://img.shields.io/badge/TypeScript-1289c4?style=for-the-badge&logo=typescript&logoColor=white'/>
   <img alt='ReactJs' src='https://img.shields.io/badge/TypeScript-1289c4?style=for-the-badge&logo=typescript&logoColor=white'/>
-  <img alt='BASH' src='https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge'/>   
+  <img alt='BASH' src='https://img.shields.io/badge/bash-11a63b?style=for-the-badge&logo=linux&logoColor=white'/>   
 </p>
 
 <p align=center>  
